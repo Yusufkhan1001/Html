@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <img src="my image.jpg" height="30%" width="30%" alt="">
+    <h1>Yusuf Khan</h1>
+    <p>age 16</p>
+    <H2>Skill</H2>
+    <p>Web Developer | Designer | Coder</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>I’m a passionate developer skilled in HTML, CSS.</p>
+    <h2>hobby</h2>
+    <p> <strong>1. Video Games  </strong>
+   I enjoy playing video games as they boost my problem-solving skills, reflexes, and creativity. It’s also a great way to relax and connect with others online.<br>
+
+2.  <strong>Bike Riding  </strong>
+   Riding bikes keeps me active and gives me a sense of freedom and adventure. It’s not just exercise, but a way to explore new places and clear my mind.<br>
+
+3. <strong>Video Editing  </strong>
+   I love editing videos because it allows me to tell stories visually. I enjoy turning raw clips into engaging content using transitions, effects, and music.<br>
+4. <strong>Time Management  </strong>
+I believe in balancing productivity with passion. I manage my time by setting daily goals, prioritizing tasks, and creating a routine. This helps me stay focused on studies/work while still enjoying my hobbies like video games, bike riding, and video editing. It keeps me motivated and improves both my creativity and efficiency. <br></p>
+
+    
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li>Portfolio Website</li>
+      <li>Ngo charity website</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Phoneno-9466291868</p>
+    <p>Email: yk8059475749@gmail.com</p>
+  </section>
+
+  <footer>
+ <a href="privacy.html">privacy policy</a>
+ <a href="contact.html">contact for more information</a>
+  </footer>
+
+</body>
+</html>
